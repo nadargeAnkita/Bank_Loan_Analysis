@@ -7,7 +7,6 @@ This project presents a detailed and interactive dashboard for **bank loan analy
 ## 1. 🧩 Problem Statement  
 The increasing complexity of loan applications and risk factors has made traditional, manual evaluation methods inefficient. This project addresses the challenges of rising NPAs and inconsistent approval processes by introducing a data-driven dashboard for loan analysis. It aims to improve operational efficiency, mitigate risk, and support transparent decision-making using real-time loan data.
 
----
 
 ## 2. 🎯 Objectives  
 - Provide **real-time insights** into customer loan data  
@@ -16,7 +15,6 @@ The increasing complexity of loan applications and risk factors has made traditi
 - Improve the **efficiency and transparency** of loan approvals  
 - Leverage machine learning to **predict loan approval outcomes**
 
----
 
 ## 3. 🔍 Steps Followed  
 - **Data Ingestion**: Loading loan data from CSV or database sources  
@@ -26,7 +24,6 @@ The increasing complexity of loan applications and risk factors has made traditi
 - **Visualization**: Built interactive dashboards using Dash, Plotly, and Power BI  
 - **Insights & Evaluation**: Analyzed model performance (accuracy, precision, recall)
 
----
 
 ## 4. 📊 Key Insights from Dashboards  
 
@@ -36,7 +33,6 @@ The increasing complexity of loan applications and risk factors has made traditi
 - 60-month loans are most common; renters received the highest loan amounts  
 - Credit history, income, and employment status are key predictors of loan approval
 
----
 
 ## 5. 🛠 Tech Stack  
 - 	**Microsoft SQL Server:** Used for storing, managing, and querying structured financial data efficiently.
@@ -49,7 +45,6 @@ The increasing complexity of loan applications and risk factors has made traditi
  
 
 
----
 
 ## 6. ✨ Features  
 - Three **interactive dashboards**:  
@@ -61,7 +56,6 @@ The increasing complexity of loan applications and risk factors has made traditi
 - Intuitive layout designed for both technical and business users  
 - Predictive accuracy comparison: Random Forest outperforms Logistic Regression
 
----
 
 ## 7. 📈 Results  
 ### 🔹 Summary Dashboard  
@@ -76,7 +70,7 @@ The increasing complexity of loan applications and risk factors has made traditi
 
 
 
----
+
 
 ## 8. 🚀 Conclusion & Future Scope  
 This project successfully demonstrates how **data science and interactive dashboards** can optimize loan evaluation processes. The system supports fast, data-driven decisions and aids in identifying default patterns, ultimately helping reduce NPAs.
@@ -90,7 +84,6 @@ This project successfully demonstrates how **data science and interactive dashbo
 
 
 
----
 
 ## 🙌 Let's Connect  
 Feel free to reach out or suggest improvements!  
