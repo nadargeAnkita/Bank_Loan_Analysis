@@ -59,7 +59,7 @@ The increasing complexity of loan applications and risk factors has made traditi
 
 ## 7. 📈 Results  
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](./images/Summary.png)
+![Summary Dashboard](https://github.com/nadargeAnkita/Bank_Loan_Analysis/blob/main/Bank-Loan-Analysis/images/Summary.png)
 - The Bank Loan Summary Dashboard highlights 38.6K loan applications with $435.8M funded and $473.1M received. The average interest rate is 12.0%, and the DTI stands at 13.3%. Good loans represent 86.2% (33K apps, $370.2M), while bad loans make up 13.8% (5K apps, $65.5M). The loan status table breaks down applications, amounts, interest rates, and DTI across categories: Charged Off, Current, and Fully Paid.
 ### 🔹 Overview Dashboard  
 ![Overview Dashboard](./images/Overview.png)
