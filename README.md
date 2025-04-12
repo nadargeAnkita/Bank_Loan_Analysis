@@ -3,7 +3,6 @@
 ## 🧾 Abstract  
 This project presents a detailed and interactive dashboard for **bank loan analysis**, developed to assist financial institutions in evaluating and managing loan applications more effectively. The dashboards leverage machine learning and data visualization to identify risk patterns, streamline loan assessments, and enhance decision-making. Built using Python (Dash, Plotly) and visualized with tools like Power BI, this solution combines predictive analytics with interactive interfaces to improve the transparency, speed, and accuracy of loan evaluations.
 
----
 
 ## 1. 🧩 Problem Statement  
 The increasing complexity of loan applications and risk factors has made traditional, manual evaluation methods inefficient. This project addresses the challenges of rising NPAs and inconsistent approval processes by introducing a data-driven dashboard for loan analysis. It aims to improve operational efficiency, mitigate risk, and support transparent decision-making using real-time loan data.
