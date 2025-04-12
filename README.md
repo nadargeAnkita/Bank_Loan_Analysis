@@ -59,13 +59,13 @@ The increasing complexity of loan applications and risk factors has made traditi
 
 ## 7. 📈 Results  
 ### 🔹 Summary Dashboard  
-![Summary Dashboard](./images/summary.png)
+![Summary Dashboard](./images/Summary.png)
 - The Bank Loan Summary Dashboard highlights 38.6K loan applications with $435.8M funded and $473.1M received. The average interest rate is 12.0%, and the DTI stands at 13.3%. Good loans represent 86.2% (33K apps, $370.2M), while bad loans make up 13.8% (5K apps, $65.5M). The loan status table breaks down applications, amounts, interest rates, and DTI across categories: Charged Off, Current, and Fully Paid.
 ### 🔹 Overview Dashboard  
-![Overview Dashboard](./images/overview.png)
+![Overview Dashboard](./images/Overview.png)
 - This Bank Loan Overview Dashboard summarizes 38.6K applications, $435.8M funded, and $473.1M received, with an average interest rate of 12% and DTI of 13.3%. Key insights show steady monthly funding growth, 60-month loans as most common, top funding from applicants with 10+ years experience, and debt consolidation as the leading loan purpose. Renters received the highest loan amounts, and applications are spread across multiple states.
 ### 🔹 Details Dashboard  
-![Details Dashboard](./images/details.png)
+![Details Dashboard](./images/Details.png)
 - The Bank Loan Report – Details Dashboard offers an overview of individual loan records, covering loan purposes (e.g., car, small business, debt consolidation), ownership status (MORTGAGE, RENT, OWN), grades (A–E), and issue dates (mainly Jan 2021). Funded amounts range from $3K to $25K with interest rates between 0.06 and 0.20. Monthly instalments vary from under $130 for smaller loans to over $800 for higher loans, helping assess borrower profiles and repayment trends.
 
 
