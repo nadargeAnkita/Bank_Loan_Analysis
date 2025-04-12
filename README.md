@@ -89,6 +89,6 @@ This project successfully demonstrates how **data science and interactive dashbo
 Feel free to reach out or suggest improvements!  
 🔗 [LinkedIn](https://www.linkedin.com/in/ankita-nadarge/) 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ankita-nadarge/)  
+🔗 [Github](https://github.com/nadargeAnkita/Bank_Loan_Analysis.git)  
 📧 ankitanadarge@email.com
 
