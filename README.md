@@ -1,5 +1,5 @@
 # 💼 Bank Loan Analysis
-### Dashboard Repo : ![Bank Loan Analysis Dashboard](https://github.com/nadargeAnkita/Bank_Loan_Analysis.git)
+
 ## 🧾 Abstract  
 This project presents a detailed and interactive dashboard for **bank loan analysis**, developed to assist financial institutions in evaluating and managing loan applications more effectively. The dashboards leverage machine learning and data visualization to identify risk patterns, streamline loan assessments, and enhance decision-making. Built using Python (Dash, Plotly) and visualized with tools like Power BI, this solution combines predictive analytics with interactive interfaces to improve the transparency, speed, and accuracy of loan evaluations.
 
